@@ -1,0 +1,6 @@
+@RateLimitMiddlewareInDotnet_HostAddress = http://localhost:5285
+
+GET {{RateLimitMiddlewareInDotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
